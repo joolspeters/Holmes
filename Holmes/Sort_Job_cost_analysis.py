@@ -1,8 +1,8 @@
 
 import csv
 
-# keywords = ['MSE', 'lars', 'earth', 'jamie', 'geotech' 'embankment']
-keywords = ['MSE', 'embankment']
+keywords = ['MSE', 'lars', 'earth', 'jamie', 'geotech', 'light', 'mast', 'retaining', 'embankment', 'surcharge']
+# keywords = ['MSE', 'embankment']
 
 output = []
 
